@@ -37,7 +37,7 @@
 
 ```bash
 git clone https://github.com/obfusque/discord-encrypted-storage-explorer.git
-cd discord-encrypted-explorer
+cd discord-encrypted-storage-explorer
 ```
 
 ### Build the Project
